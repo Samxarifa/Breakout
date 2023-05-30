@@ -13,7 +13,6 @@
 </head>
 
 <body>
-    <?php include('../../code/xarifaNav.php')?>
     <main>
         <canvas id="myCanvas" width="1000px" height="750px"></canvas>
     </main>
